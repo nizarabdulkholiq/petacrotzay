@@ -10,7 +10,7 @@ import { URLGeoJson } from "../template/template.js";
 
 const attributions = '<a href="https://petapedia.github.io/" target="_blank">&copy; PetaPedia Indonesia</a> ';
 
-const place = [107.44682492184505, -6.556150255899776];
+const place = [107.44692148136555, -6.558340608588464];
 
 export let idmarker = { id: 1 };
 

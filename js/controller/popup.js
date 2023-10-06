@@ -1,7 +1,7 @@
 import {toLonLat} from 'https://cdn.skypack.dev/ol/proj.js';
 import {toStringHDMS} from 'https://cdn.skypack.dev/ol/coordinate.js';
-import {overlay,map,popupinfo,idmarker} from '../config/configpeta.js';
-import {clickpopup} from '../template/template.js';
+import {overlay,map,popupinfo,idmarker} from '../config/peta.js';
+import {clickpopup} from '../template/popup.js';
 import {insertMarker,deleteMarker} from './marker.js';
 import {setInner,textBlur,onClick, getValue,setValue} from 'https://jscroot.github.io/element/croot.js';
 import { postWithToken } from "https://jscroot.github.io/api/croot.js";

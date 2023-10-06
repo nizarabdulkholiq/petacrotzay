@@ -6,12 +6,13 @@ body {
   height: 100%;
 }
 
-#map {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-}
+
+    #map {
+        width: 80%; /* Set the desired width */
+        height: 400px; /* Set the desired height */
+        margin: 0 auto; /* Center the map horizontally */
+    }
+
 
 .ol-popup {
   position: absolute;
