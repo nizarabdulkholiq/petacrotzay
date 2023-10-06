@@ -68,8 +68,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             });
         })
+        
         .catch(error => console.error("Terjadi kesalahan:", error));
+
+        
 });
+
+
 onClick('popup-closer',onClosePopupClick);
 onClick('insertmarkerbutton',onSubmitMarkerClick);
 onClick('hapusbutton',onDeleteMarkerClick);
@@ -79,4 +84,6 @@ map.on('click', onMapClick);
 map.on('pointermove', onMapPointerMove);
 map.on('movestart', disposePopover);
 get(URLGeoJson,responseData);
+
+
 
