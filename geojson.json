@@ -1,0 +1,3601 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Situ Sribaduga",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44633157483543,
+            -6.558702341212012
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Situ Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44673228171843,
+            -6.556114785911248
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bank BCA ",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44372202398267,
+            -6.550809972853884
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Statsiun Purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44657159335401,
+            -6.552489956286635
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pertigaan Sribaduga",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44596876165332,
+            -6.554976002139156
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Pasar Senen",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.4474234352129,
+            -6.562194982295125
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Majid Agung Purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44109817017232,
+            -6.555611153312739
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Yogya Toserba",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.4430421690488,
+            -6.550449049617015
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bank",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44331084348426,
+            -6.54711463429669
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Bank BTN Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44398338499332,
+            -6.551454983932388
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bank Mandiri"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44389293813373,
+            -6.54394012031527
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RSUD Bayu Asih Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44319954790092,
+            -6.538301256963862
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taman Pembaharuan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44467568115215,
+            -6.535105745809403
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor Kecamatan Purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.4454456570403,
+            -6.53473544035765
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pom Pertamina"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44493143612561,
+            -6.534302505504186
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pom Pertamina"
+        },
+        "geometry": {
+          "coordinates": [
+            107.4468647219619,
+            -6.529756496353315
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "JNE Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44837034360336,
+            -6.528674802305119
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kampus UPI Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44471028963102,
+            -6.538567222682332
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Munjul",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.4467469924893,
+            -6.540239809593302
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "SMA PGRI Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44599752864553,
+            -6.539065912050546
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "SMAN1 Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44761092629705,
+            -6.560215286831465
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMAN Purnawarman"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44672092814994,
+            -6.568008318624564
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Stadion Purnawarman"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44570239617667,
+            -6.565004096016423
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gor Purnawarman",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44808074578441,
+            -6.5638352687524275
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor Kesehatan Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44552368113341,
+            -6.561122002278182
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Area Situ Sribaduga Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.446550538282,
+            -6.55947276005881
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Pertigaan Sribaduga 2"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44499200078315,
+            -6.55661544392207
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gang Rusa 1"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44368474595092,
+            -6.557586566025478
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alun - Alun Purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44220041752084,
+            -6.5559332811831865
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gang Walangi"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44160413387226,
+            -6.5550852187171245
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Jalan Ahmad Yani"
+        },
+        "geometry": {
+          "coordinates": [
+            107.43727844758047,
+            -6.559816733019673
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "POM arah Jatiluhur"
+        },
+        "geometry": {
+          "coordinates": [
+            107.43644764447191,
+            -6.561224704825179
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Jalan Raya Bnadung"
+        },
+        "geometry": {
+          "coordinates": [
+            107.43814105109556,
+            -6.560787519779041
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pertigaan Jalan Tengah",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.44399905861843,
+            -6.560743318574595
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Hilir Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44407578131023,
+            -6.5617092107769395
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gang Dahlia "
+        },
+        "geometry": {
+          "coordinates": [
+            107.44422935504798,
+            -6.553465512078887
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Pasar Jum'at"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44307833821688,
+            -6.549119557334976
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Pasar Senen"
+        },
+        "geometry": {
+          "coordinates": [
+            107.43780090986394,
+            -6.541542540680425
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taman Makam Pahlawan",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.43857205081196,
+            -6.536260421400371
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMKN1 Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.43633379751492,
+            -6.528514282466517
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sadang Terminal Square"
+        },
+        "geometry": {
+          "coordinates": [
+            107.46145123375726,
+            -6.508689824261268
+          ],
+          "type": "Point"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Sadang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.45752284083659,
+            -6.512558812194243
+          ],
+          "type": "Point"
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Maracang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.42932107690905,
+            -6.538922104200836
+          ],
+          "type": "Point"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Daerah Kartajaya"
+        },
+        "geometry": {
+          "coordinates": [
+            107.45692769759546,
+            -6.586621022877964
+          ],
+          "type": "Point"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Munjul"
+        },
+        "geometry": {
+          "coordinates": [
+            107.48348635934019,
+            -6.554472064592019
+          ],
+          "type": "Point"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Daerah Pasar Rebo"
+        },
+        "geometry": {
+          "coordinates": [
+            107.4554309431818,
+            -6.564810878905988
+          ],
+          "type": "Point"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Rel "
+        },
+        "geometry": {
+          "coordinates": [
+            107.45096262860244,
+            -6.561334599061723
+          ],
+          "type": "Point"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Statsiun"
+        },
+        "geometry": {
+          "coordinates": [
+            107.45863739612514,
+            -6.522016540991515
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Simpang",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            107.45775612781375,
+            -6.568304168485085
+          ],
+          "type": "Point"
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Kwarcap Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44680997334086,
+            -6.526616252257341
+          ],
+          "type": "Point"
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Toko Buku Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.44777986097097,
+            -6.5270646538376695
+          ],
+          "type": "Point"
+        },
+        "id": 50
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Daerah Alun - Alun Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44144131557249,
+                -6.555287399274036
+              ],
+              [
+                107.44144131557249,
+                -6.556331676410565
+              ],
+              [
+                107.44272960867829,
+                -6.556331676410565
+              ],
+              [
+                107.44272960867829,
+                -6.555287399274036
+              ],
+              [
+                107.44144131557249,
+                -6.555287399274036
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 51
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Daerah Situ Sri Baduga"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44547014065773,
+                -6.556258868332733
+              ],
+              [
+                107.44547014065773,
+                -6.557979759840407
+              ],
+              [
+                107.44701047869353,
+                -6.557979759840407
+              ],
+              [
+                107.44701047869353,
+                -6.556258868332733
+              ],
+              [
+                107.44547014065773,
+                -6.556258868332733
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 52
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Stadion Purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44497933386748,
+                -6.563996992547018
+              ],
+              [
+                107.44497933386748,
+                -6.565181334335861
+              ],
+              [
+                107.44594708920584,
+                -6.565181334335861
+              ],
+              [
+                107.44594708920584,
+                -6.563996992547018
+              ],
+              [
+                107.44497933386748,
+                -6.563996992547018
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 53
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Pasar Rebo"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.45056633999002,
+                -6.560632515598343
+              ],
+              [
+                107.45056633999002,
+                -6.561422413720621
+              ],
+              [
+                107.45214360939059,
+                -6.561422413720621
+              ],
+              [
+                107.45214360939059,
+                -6.560632515598343
+              ],
+              [
+                107.45056633999002,
+                -6.560632515598343
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 54
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah dekat Situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.45103068431831,
+                -6.558179656066898
+              ],
+              [
+                107.44994067217897,
+                -6.558179656066898
+              ],
+              [
+                107.44994067217897,
+                -6.559598340848211
+              ],
+              [
+                107.45103068431831,
+                -6.559598340848211
+              ],
+              [
+                107.45103068431831,
+                -6.558179656066898
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 55
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Statsiun Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44606017851925,
+                -6.5520775436900465
+              ],
+              [
+                107.44606017851925,
+                -6.554297162012162
+              ],
+              [
+                107.4473511429544,
+                -6.554297162012162
+              ],
+              [
+                107.4473511429544,
+                -6.5520775436900465
+              ],
+              [
+                107.44606017851925,
+                -6.5520775436900465
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 56
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Masjid Agung Purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44086564859043,
+                -6.555258011789377
+              ],
+              [
+                107.44086564859043,
+                -6.556462846321153
+              ],
+              [
+                107.44125358033608,
+                -6.556462846321153
+              ],
+              [
+                107.44125358033608,
+                -6.555258011789377
+              ],
+              [
+                107.44086564859043,
+                -6.555258011789377
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 57
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Pasar Purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.43925389749785,
+                -6.556768454930449
+              ],
+              [
+                107.43925389749785,
+                -6.558833843830527
+              ],
+              [
+                107.44045251352173,
+                -6.558833843830527
+              ],
+              [
+                107.44045251352173,
+                -6.556768454930449
+              ],
+              [
+                107.43925389749785,
+                -6.556768454930449
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 58
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah RSUD Bayu Asih"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44173913011548,
+                -6.534766559878847
+              ],
+              [
+                107.44173913011548,
+                -6.545420038132562
+              ],
+              [
+                107.44325894837704,
+                -6.545420038132562
+              ],
+              [
+                107.44325894837704,
+                -6.534766559878847
+              ],
+              [
+                107.44173913011548,
+                -6.534766559878847
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 59
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Pasar Senen"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.43610385791425,
+                -6.538694900495429
+              ],
+              [
+                107.43610385791425,
+                -6.544586619528289
+              ],
+              [
+                107.43992093565049,
+                -6.544586619528289
+              ],
+              [
+                107.43992093565049,
+                -6.538694900495429
+              ],
+              [
+                107.43610385791425,
+                -6.538694900495429
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 60
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.43975043463388,
+              -6.560625533347633
+            ],
+            [
+              107.4439289174436,
+              -6.560751618747474
+            ],
+            [
+              107.44386117692449,
+              -6.555559611671313
+            ],
+            [
+              107.44354236923067,
+              -6.545800145602087
+            ],
+            [
+              107.4418375342118,
+              -6.546076168037814
+            ],
+            [
+              107.43748619897201,
+              -6.551178310941822
+            ],
+            [
+              107.43688005072977,
+              -6.554327339608733
+            ],
+            [
+              107.43739349322942,
+              -6.56069887259936
+            ],
+            [
+              107.4439905313227,
+              -6.559936795044095
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 61
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Ahmad Yani Jalan tengah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44273879806275,
+              -6.560778013913492
+            ],
+            [
+              107.43743747494818,
+              -6.560696276715035
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan dekat Situ Sribaduga",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44550118126705,
+              -6.555920068936416
+            ],
+            [
+              107.44668196669784,
+              -6.5557132531424855
+            ],
+            [
+              107.44594796224811,
+              -6.554979545285875
+            ],
+            [
+              107.44551591872897,
+              -6.555910057568283
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 63
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan menuju situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44716754351742,
+              -6.556617645060825
+            ],
+            [
+              107.4476186573691,
+              -6.556609783262061
+            ],
+            [
+              107.44765519936368,
+              -6.556790149079703
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 64
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan samping situ "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44713503158613,
+              -6.5566213817022
+            ],
+            [
+              107.44716379034367,
+              -6.557083727594261
+            ],
+            [
+              107.44719259916155,
+              -6.5577417189264935
+            ],
+            [
+              107.44718752305835,
+              -6.557875981691225
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 65
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah Menuju Situ "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44721255455329,
+              -6.558331841447682
+            ],
+            [
+              107.44732291170146,
+              -6.561826843827674
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Merak"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44728207078037,
+              -6.559337285145631
+            ],
+            [
+              107.44837513316742,
+              -6.559348943659742
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan merak 2",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44733188669375,
+              -6.560903151930162
+            ],
+            [
+              107.44836124299036,
+              -6.560888162459705
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah Purwakarta 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44410586242827,
+              -6.560832676923965
+            ],
+            [
+              107.4472749846845,
+              -6.561888044235957
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 69
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Suradiraja"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4437136189838,
+              -6.544751692320219
+            ],
+            [
+              107.44619535415819,
+              -6.5453281723198415
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah Purwakarta 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44630674207406,
+              -6.545457979849502
+            ],
+            [
+              107.44520870816598,
+              -6.548961189240188
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan dekat Situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44546501562724,
+              -6.556050333232818
+            ],
+            [
+              107.4451525669545,
+              -6.5566445376133515
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan dekat Situ",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4451525669545,
+              -6.556795305775992
+            ],
+            [
+              107.44510793143019,
+              -6.557664439001414
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan dekat Situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44514363984968,
+              -6.557691045096433
+            ],
+            [
+              107.4459738606094,
+              -6.558400540445604
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan dekat Situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44607205876292,
+              -6.558436015186288
+            ],
+            [
+              107.44661661216458,
+              -6.558391671760077
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pertigaan situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44668802900355,
+              -6.558347328329944
+            ],
+            [
+              107.44718794688083,
+              -6.557930499890048
+            ],
+            [
+              107.44722365530038,
+              -6.558320722269983
+            ],
+            [
+              107.44694691504708,
+              -6.558161085877856
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan menuju situ 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44395633489285,
+              -6.5565735878733165
+            ],
+            [
+              107.44510793143019,
+              -6.556688881194944
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gang situ wanayasa"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44842071303674,
+              -6.559302855063066
+            ],
+            [
+              107.44853634990051,
+              -6.558260728970083
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan pasar senen",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44840035571417,
+              -6.560401762959032
+            ],
+            [
+              107.44912308610435,
+              -6.560455099945571
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan raya bandung purwakarta 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4473450171896,
+              -6.561910886173067
+            ],
+            [
+              107.44793972105333,
+              -6.562140644759481
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan tengah bandung raya"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44843275680961,
+              -6.562317686223082
+            ],
+            [
+              107.4484123814122,
+              -6.5608843054352946
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan merak tengah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44840403073687,
+              -6.560813783625548
+            ],
+            [
+              107.44839150356756,
+              -6.559341107505887
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan samping situ pertigaan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44512329425328,
+              -6.557736933193567
+            ],
+            [
+              107.4452235116193,
+              -6.558450457984719
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah Purwakarta 1",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44523186306628,
+              -6.558454606381588
+            ],
+            [
+              107.44575800423047,
+              -6.558288670476429
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah Purwakarta Purnawarman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44540306773047,
+              -6.558454606381588
+            ],
+            [
+              107.44640941709946,
+              -6.559184723709905
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah Purwakarta Purnawarman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44648040439978,
+              -6.559163981755233
+            ],
+            [
+              107.4470984114808,
+              -6.5583218576616105
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Tengah Purwakarta Purnawarman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44525691958364,
+              -6.558516832642127
+            ],
+            [
+              107.44542812424788,
+              -6.559724014540507
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan sisi situ tengah "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44605678639994,
+              -6.555003785780585
+            ],
+            [
+              107.4471197927873,
+              -6.554959519907513
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan menuju statsiun",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4458149047075,
+              -6.553214176622973
+            ],
+            [
+              107.4459422108622,
+              -6.554776132675627
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan tengah statsiun"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4438729760048,
+              -6.551162650167342
+            ],
+            [
+              107.44572528054579,
+              -6.552851087124637
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan gang dahlia"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44392389846604,
+              -6.553464487899646
+            ],
+            [
+              107.44582712546992,
+              -6.55306609366761
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan surawinata"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44360601261832,
+              -6.545835292054662
+            ],
+            [
+              107.44545831715931,
+              -6.545677196726288
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan tengah kota"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44353584456587,
+              -6.545587658045875
+            ],
+            [
+              107.44358040171943,
+              -6.5438612534962175
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan tengah kota 2",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44357190279106,
+              -6.543736189637087
+            ],
+            [
+              107.44385197633108,
+              -6.540960016733607
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan tengah kota 3"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44384967690752,
+              -6.540825210574312
+            ],
+            [
+              107.44500968237344,
+              -6.534946848158057
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan taman pembaharuan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44493329868163,
+              -6.534877284704848
+            ],
+            [
+              107.44185248975265,
+              -6.534010902696835
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan taman pembaharuan 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44174790887598,
+              -6.534084838949553
+            ],
+            [
+              107.44060215348907,
+              -6.537000176382975
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan pasar jum'at"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44052578144175,
+              -6.537183560320514
+            ],
+            [
+              107.44111138975046,
+              -6.541123347964543
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan pasar",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4411181460577,
+              -6.541167998237228
+            ],
+            [
+              107.44202202448133,
+              -6.545986758930297
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gang walawangi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44356961497266,
+              -6.55135916315939
+            ],
+            [
+              107.44247451023114,
+              -6.551141572373851
+            ],
+            [
+              107.44228677798912,
+              -6.551840970989275
+            ],
+            [
+              107.44355397061923,
+              -6.551825428808655
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "gang 2 walawangi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44217726751373,
+              -6.551949766241421
+            ],
+            [
+              107.44152020466964,
+              -6.555182528614694
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan alun alun"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44359308150132,
+              -6.55541565970708
+            ],
+            [
+              107.44018261244605,
+              -6.555120360305139
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan tengah alun alun"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44381340203228,
+              -6.55658032330507
+            ],
+            [
+              107.44135723853856,
+              -6.5563705058172275
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan raya purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.43986500178187,
+              -6.554643376620021
+            ],
+            [
+              107.4397789578386,
+              -6.555086326080584
+            ],
+            [
+              107.43699426292272,
+              -6.554907592135706
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan gang gurame"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.43887158552252,
+              -6.555079457280087
+            ],
+            [
+              107.43756528200902,
+              -6.55801690167597
+            ],
+            [
+              107.43726021711495,
+              -6.558094611610514
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan pertigaan situ k10"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.4471503435471,
+              -6.55501922954069
+            ],
+            [
+              107.44756491891457,
+              -6.5554000103931855
+            ],
+            [
+              107.4476118519745,
+              -6.556433556952641
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan dekat SMAN1",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44762749632781,
+              -6.555423323496939
+            ],
+            [
+              107.44998197152495,
+              -6.559876106352704
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan daerah situ barat"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44765096285789,
+              -6.556806565711113
+            ],
+            [
+              107.4477135402712,
+              -6.557824567360612
+            ],
+            [
+              107.4487930006614,
+              -6.557948903297486
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan gang merak 4",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44765096285789,
+              -6.5579333613072635
+            ],
+            [
+              107.44770571809454,
+              -6.559277741685776
+            ],
+            [
+              107.44808900475522,
+              -6.55851618561627
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan rayabandung purwakarta 5"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44806439390351,
+              -6.562152300017928
+            ],
+            [
+              107.45066206898531,
+              -6.563199521780589
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan pasar senen rel"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.45020857640083,
+              -6.560244123690566
+            ],
+            [
+              107.45099917316583,
+              -6.5632735922240215
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan hilir kartaraja"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.45077328837544,
+              -6.563348393683711
+            ],
+            [
+              107.44821326075834,
+              -6.568584467891384
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan gang hilir"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.43740856448346,
+              -6.560954803941101
+            ],
+            [
+              107.4374838594128,
+              -6.563049250300139
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan gang hilir purwakarta",
+          "name ": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.43767209673729,
+              -6.563198853274443
+            ],
+            [
+              107.44380863352683,
+              -6.5659665001926015
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan gang 100m"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44388038911609,
+              -6.566230879908474
+            ],
+            [
+              107.4435051555273,
+              -6.567050978033791
+            ],
+            [
+              107.44570652591369,
+              -6.568144440097939
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan pasar hilir 3"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44645699309137,
+              -6.568467507975086
+            ],
+            [
+              107.44615680622132,
+              -6.570430762103641
+            ],
+            [
+              107.44788288072789,
+              -6.56874087293842
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan gang hilir kartaraja"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44635693080187,
+              -6.568119588714282
+            ],
+            [
+              107.44703235126076,
+              -6.56558474104078
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "jalan raya bandung hilir"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.44800795859135,
+              -6.562229775744797
+            ],
+            [
+              107.44788287551091,
+              -6.562925623175076
+            ],
+            [
+              107.44710739276087,
+              -6.562726809985193
+            ],
+            [
+              107.44668212802736,
+              -6.565634444978414
+            ],
+            [
+              107.44705736161615,
+              -6.56555989044692
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Gang rusa 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44161090642973,
+                -6.5565479961111635
+              ],
+              [
+                107.44370155840647,
+                -6.559883278688318
+              ],
+              [
+                107.4435947367736,
+                -6.556699600348608
+              ],
+              [
+                107.44161090642973,
+                -6.5565479961111635
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Pasar Senen re;"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44748335465192,
+                -6.554520995195105
+              ],
+              [
+                107.44963504756191,
+                -6.558599149709451
+              ],
+              [
+                107.45383161174692,
+                -6.554596797628264
+              ],
+              [
+                107.44748335465192,
+                -6.554520995195105
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44418716181877,
+                -6.556779898374856
+              ],
+              [
+                107.44484335185359,
+                -6.557052785842274
+              ],
+              [
+                107.44415664135022,
+                -6.560494187194749
+              ],
+              [
+                107.44511803605462,
+                -6.56090351528988
+              ],
+              [
+                107.44418716181877,
+                -6.556779898374856
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah Gang dahlia"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.4440345594632,
+                -6.553692903602808
+              ],
+              [
+                107.44444658576572,
+                -6.556255023697759
+              ],
+              [
+                107.4450569951008,
+                -6.556194381954612
+              ],
+              [
+                107.44572844537089,
+                -6.553510977415499
+              ],
+              [
+                107.4440345594632,
+                -6.553692903602808
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Daerah bazar situ"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44554534566146,
+                -6.558847435553531
+              ],
+              [
+                107.44566742752966,
+                -6.560499911632121
+              ],
+              [
+                107.44664408246734,
+                -6.559848018054296
+              ],
+              [
+                107.44554534566146,
+                -6.558847435553531
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah gang walawangi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44238141617808,
+                -6.5520542811568845
+              ],
+              [
+                107.44180152730956,
+                -6.554904458799427
+              ],
+              [
+                107.4435411939171,
+                -6.555237989161256
+              ],
+              [
+                107.44338859158228,
+                -6.552145244525036
+              ],
+              [
+                107.44238141617808,
+                -6.5520542811568845
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah munjul"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.45809132287718,
+                -6.521227815685279
+              ],
+              [
+                107.45801502171088,
+                -6.521970728504471
+              ],
+              [
+                107.45888485501553,
+                -6.522304280840885
+              ],
+              [
+                107.45948000411738,
+                -6.520545547840058
+              ],
+              [
+                107.45809132287718,
+                -6.521227815685279
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah sts purwakarta"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.4609950680146,
+                -6.508624183262469
+              ],
+              [
+                107.46423023749526,
+                -6.511459446485034
+              ],
+              [
+                107.46569521990182,
+                -6.509564218832693
+              ],
+              [
+                107.46284155625705,
+                -6.506456029996926
+              ],
+              [
+                107.4609950680146,
+                -6.508624183262469
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah perumahan sadang"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.45813328791235,
+                -6.511860208439913
+              ],
+              [
+                107.457339755774,
+                -6.512648620406225
+              ],
+              [
+                107.45967457148532,
+                -6.5140738235111115
+              ],
+              [
+                107.45813328791235,
+                -6.511860208439913
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "daerah jalan tengah 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44324783961315,
+                -6.546106362258811
+              ],
+              [
+                107.44201176070771,
+                -6.546303451884114
+              ],
+              [
+                107.44089776366866,
+                -6.547804362628895
+              ],
+              [
+                107.44344622264776,
+                -6.549653963603106
+              ],
+              [
+                107.44324783961315,
+                -6.546106362258811
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah 2"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.443842988715,
+                -6.546015397790114
+              ],
+              [
+                107.44390402965007,
+                -6.550411994808272
+              ],
+              [
+                107.44474334248622,
+                -6.550684885760049
+              ],
+              [
+                107.44575051789047,
+                -6.545985076297157
+              ],
+              [
+                107.443842988715,
+                -6.546015397790114
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah 3"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44047029995727,
+                -6.548173324469104
+              ],
+              [
+                107.43769293747886,
+                -6.551205451379232
+              ],
+              [
+                107.44153851629659,
+                -6.553843386800892
+              ],
+              [
+                107.44237782913274,
+                -6.549765193394421
+              ],
+              [
+                107.44047029995727,
+                -6.548173324469104
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah 4"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.43760709093601,
+                -6.5515522987449515
+              ],
+              [
+                107.43708824299858,
+                -6.554614726088516
+              ],
+              [
+                107.44087278088318,
+                -6.555008898539754
+              ],
+              [
+                107.44130006741887,
+                -6.554144750836272
+              ],
+              [
+                107.43760709093601,
+                -6.5515522987449515
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah gang rusa"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.4409869629659,
+                -6.557377050819198
+              ],
+              [
+                107.4406664935247,
+                -6.556603865099177
+              ],
+              [
+                107.44063597305819,
+                -6.558893083922868
+              ],
+              [
+                107.44327599797737,
+                -6.559863350358654
+              ],
+              [
+                107.4409869629659,
+                -6.557377050819198
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "daerah jalan tengah 10"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.43712611937661,
+                -6.555133301766091
+              ],
+              [
+                107.43738554334425,
+                -6.557801537186037
+              ],
+              [
+                107.43863688248297,
+                -6.5553000668978285
+              ],
+              [
+                107.43712611937661,
+                -6.555133301766091
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah pasar jum'at"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.4383011573488,
+                -6.557028356801368
+              ],
+              [
+                107.43744658427738,
+                -6.55837763159532
+              ],
+              [
+                107.43917099065163,
+                -6.560348475853658
+              ],
+              [
+                107.43904890878537,
+                -6.557437687742521
+              ],
+              [
+                107.4383011573488,
+                -6.557028356801368
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah upi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44638502982855,
+                -6.545912258278761
+              ],
+              [
+                107.4461256058608,
+                -6.546609652258098
+              ],
+              [
+                107.44734642453295,
+                -6.547488973713598
+              ],
+              [
+                107.44775845083535,
+                -6.546579330801265
+              ],
+              [
+                107.44638502982855,
+                -6.545912258278761
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah dekat gang dahlia"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44414159584903,
+                -6.5517195221226245
+              ],
+              [
+                107.4439737322756,
+                -6.553326539682956
+              ],
+              [
+                107.4455302760818,
+                -6.55293236590191
+              ],
+              [
+                107.44414159584903,
+                -6.5517195221226245
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah SMAN 1"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44735141042293,
+                -6.559429693155209
+              ],
+              [
+                107.44735141042293,
+                -6.560809282041774
+              ],
+              [
+                107.44828228465883,
+                -6.560809282041774
+              ],
+              [
+                107.44828228465883,
+                -6.559429693155209
+              ],
+              [
+                107.44735141042293,
+                -6.559429693155209
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "Daerah inti hilir"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44298698366788,
+                -6.560945724690896
+              ],
+              [
+                107.44297172343465,
+                -6.56241627087185
+              ],
+              [
+                107.44593220871621,
+                -6.562658834773245
+              ],
+              [
+                107.44649683735145,
+                -6.561825020867147
+              ],
+              [
+                107.44298698366788,
+                -6.560945724690896
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah pasar inti "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44818210934051,
+                -6.5624624924092245
+              ],
+              [
+                107.44717493880574,
+                -6.563599510018733
+              ],
+              [
+                107.45033380711999,
+                -6.563387267012104
+              ],
+              [
+                107.44818210934051,
+                -6.5624624924092245
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Daerah sebrang pasar inti"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44726650020544,
+                -6.563842073343778
+              ],
+              [
+                107.44737332184036,
+                -6.565373251606303
+              ],
+              [
+                107.45013542408549,
+                -6.5636904712797275
+              ],
+              [
+                107.44880778378035,
+                -6.563629830440561
+              ],
+              [
+                107.44726650020544,
+                -6.563842073343778
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah hilir masuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44720548248074,
+                -6.565646126284491
+              ],
+              [
+                107.44635090940926,
+                -6.570194150261756
+              ],
+              [
+                107.44923509352253,
+                -6.565797727754088
+              ],
+              [
+                107.44720548248074,
+                -6.565646126284491
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah stadion "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44375957963143,
+                -6.562859870799471
+              ],
+              [
+                107.44476234518476,
+                -6.565327914098276
+              ],
+              [
+                107.44450939531544,
+                -6.563829140171862
+              ],
+              [
+                107.44571994111669,
+                -6.56386503900093
+              ],
+              [
+                107.44552119479266,
+                -6.563048339992591
+              ],
+              [
+                107.44375957963143,
+                -6.562859870799471
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "daerah dekat purnawarman "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44494300624041,
+                -6.565318932829598
+              ],
+              [
+                107.44607224672728,
+                -6.565309958148745
+              ],
+              [
+                107.44615355204166,
+                -6.564645831312717
+              ],
+              [
+                107.44544890597666,
+                -6.56595613476064
+              ],
+              [
+                107.4462258234322,
+                -6.565552274476673
+              ],
+              [
+                107.44586446647708,
+                -6.5655791985055885
+              ],
+              [
+                107.44494300624041,
+                -6.565318932829598
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah 44"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44880854268536,
+                -6.55831667861456
+              ],
+              [
+                107.4485917285113,
+                -6.560120611552961
+              ],
+              [
+                107.45037141152017,
+                -6.561377078398223
+              ],
+              [
+                107.44880854268536,
+                -6.55831667861456
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan raya bandung"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44856462673988,
+                -6.560587299609068
+              ],
+              [
+                107.44851042319692,
+                -6.562220704358836
+              ],
+              [
+                107.45077793809446,
+                -6.5630822783329705
+              ],
+              [
+                107.4503985132917,
+                -6.561646320881437
+              ],
+              [
+                107.44856462673988,
+                -6.560587299609068
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah istirahat"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44704692803379,
+                -6.559725721822971
+              ],
+              [
+                107.44630614627346,
+                -6.560156511155142
+              ],
+              [
+                107.44573700906818,
+                -6.560614224410955
+              ],
+              [
+                107.44716436904343,
+                -6.561673245626082
+              ],
+              [
+                107.44704692803379,
+                -6.559725721822971
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name ": "",
+          "name": "daerah simpang johor"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44609938313863,
+                -6.546900697514744
+              ],
+              [
+                107.44540656369759,
+                -6.549063926007349
+              ],
+              [
+                107.44843517439449,
+                -6.551345138624171
+              ],
+              [
+                107.447979893048,
+                -6.5482969642508095
+              ],
+              [
+                107.44609938313863,
+                -6.546900697514744
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah pasar senen 56"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44548574306282,
+                -6.549417907959892
+              ],
+              [
+                107.44538676885662,
+                -6.550066874218842
+              ],
+              [
+                107.44639630575602,
+                -6.551817112346058
+              ],
+              [
+                107.44841537955358,
+                -6.55158112554156
+              ],
+              [
+                107.44548574306282,
+                -6.549417907959892
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah bank btn"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44396383812636,
+                -6.550622910159433
+              ],
+              [
+                107.44581050140914,
+                -6.552624295870231
+              ],
+              [
+                107.44540561801614,
+                -6.551231175293367
+              ],
+              [
+                107.44396383812636,
+                -6.550622910159433
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah toserba"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44262081770847,
+                -6.549798805675678
+              ],
+              [
+                107.44249244004675,
+                -6.550318775163504
+              ],
+              [
+                107.44279857139338,
+                -6.551044769389023
+              ],
+              [
+                107.44356883736208,
+                -6.551250794585982
+              ],
+              [
+                107.44350958613296,
+                -6.5498380486756815
+              ],
+              [
+                107.44262081770847,
+                -6.549798805675678
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah situ "
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44619862461855,
+                -6.55503001161
+              ],
+              [
+                107.446939264972,
+                -6.55603069662601
+              ],
+              [
+                107.44720589550002,
+                -6.556177856017982
+              ],
+              [
+                107.44728489713845,
+                -6.557276644770582
+              ],
+              [
+                107.4475120268466,
+                -6.559140655864624
+              ],
+              [
+                107.44829216801998,
+                -6.5592191403899704
+              ],
+              [
+                107.44868717620966,
+                -6.558081113572584
+              ],
+              [
+                107.44756140286984,
+                -6.555530354369068
+              ],
+              [
+                107.44619862461855,
+                -6.55503001161
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah 50"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.43619297084524,
+                -6.5451234076857645
+              ],
+              [
+                107.43778932479438,
+                -6.549698241175449
+              ],
+              [
+                107.4405522450889,
+                -6.546678855776122
+              ],
+              [
+                107.44101273180502,
+                -6.544818417295559
+              ],
+              [
+                107.43619297084524,
+                -6.5451234076857645
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah 32"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.43956477881227,
+                -6.559108621456247
+              ],
+              [
+                107.43937366042724,
+                -6.560152891211345
+              ],
+              [
+                107.44243155458025,
+                -6.55980480153687
+              ],
+              [
+                107.43956477881227,
+                -6.559108621456247
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan hilir 5"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.4377173010954,
+                -6.560944003206032
+              ],
+              [
+                107.43774915415923,
+                -6.562716089513174
+              ],
+              [
+                107.44109372588878,
+                -6.564519813743161
+              ],
+              [
+                107.44294120360576,
+                -6.563823640253602
+              ],
+              [
+                107.44252711377385,
+                -6.56110222545378
+              ],
+              [
+                107.4377173010954,
+                -6.560944003206032
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan hilir"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.4418116179915,
+                -6.564567794113927
+              ],
+              [
+                107.44521989585081,
+                -6.566339867525215
+              ],
+              [
+                107.4436909487743,
+                -6.563934909224201
+              ],
+              [
+                107.4418116179915,
+                -6.564567794113927
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah rel"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44771585444562,
+                -6.552186981335183
+              ],
+              [
+                107.44771585444562,
+                -6.554180613014154
+              ],
+              [
+                107.45332199372609,
+                -6.554275547657454
+              ],
+              [
+                107.44927665458596,
+                -6.551838886097755
+              ],
+              [
+                107.44771585444562,
+                -6.552186981335183
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "daerah jalan tengah 22"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                107.44525366701691,
+                -6.535563584358869
+              ],
+              [
+                107.44413880977442,
+                -6.540721866140274
+              ],
+              [
+                107.44404325058076,
+                -6.542082630987551
+              ],
+              [
+                107.44445734041477,
+                -6.5438864298391195
+              ],
+              [
+                107.44576331604236,
+                -6.544329467156686
+              ],
+              [
+                107.44655964264444,
+                -6.541418071873295
+              ],
+              [
+                107.4468144671572,
+                -6.536702841355677
+              ],
+              [
+                107.44525366701691,
+                -6.535563584358869
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      }
+    ]
+  }
