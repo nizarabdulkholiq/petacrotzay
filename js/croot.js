@@ -6,7 +6,7 @@ import { getAllCoordinates } from "./controller/cog.js";
 document.addEventListener("DOMContentLoaded", () => {
   const pointTable = document.getElementById("pointTable").getElementsByTagName("tbody")[0];
 
-  fetch("https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/goejsondrawPoint.json") // Ganti "data.json" dengan nama file JSON Anda
+  fetch("https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json") // Ganti "data.json" dengan nama file JSON Anda
     .then((response) => response.json())
     .then((data) => {
       data.features.forEach((feature) => {
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
   const pointTable = document.getElementById("polygonTable").getElementsByTagName("tbody")[0];
 
-  fetch("https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonPloygon.json") // Ganti "data.json" dengan nama file JSON Anda
+  fetch("https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json") // Ganti "data.json" dengan nama file JSON Anda
     .then((response) => response.json())
     .then((data) => {
       data.features.forEach((feature) => {
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
   const pointTable = document.getElementById("polylineTable").getElementsByTagName("tbody")[0];
 
-  fetch("https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonLinestring.json") // Ganti "data.json" dengan nama file JSON Anda
+  fetch("https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json") // Ganti "data.json" dengan nama file JSON Anda
     .then((response) => response.json())
     .then((data) => {
       data.features.forEach((feature) => {
