@@ -71,9 +71,9 @@ import { Vector as VectorLayer } from "https://cdn.skypack.dev/ol/layer.js";
 import GeoJSON from "https://cdn.skypack.dev/ol/format/GeoJSON.js";
 
 // Definisikan URL GeoJSON untuk masing-masing jenis fitur
-const polygonGeoJSONUrl = "https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/goejsondrawPoint.json";
-const lineStringGeoJSONUrl = "https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonPloygon.json";
-const pointGeoJSONUrl = "https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonLinestring.json";
+const polygonGeoJSONUrl = "https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json";
+const lineStringGeoJSONUrl = "https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json";
+const pointGeoJSONUrl = "https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json";
 
 // Buat sumber vektor dan lapisan vektor untuk masing-masing jenis fitur
 const polygonSource = new VectorSource({
