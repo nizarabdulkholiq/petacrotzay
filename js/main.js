@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", async () => {
   try {
-    const responsePoint = await fetch("https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/goejsondrawPoint.json");
+    const responsePoint = await fetch("https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json");
     const dataPoint = await responsePoint.json();
     const pointTable = document.getElementById("pointTable").getElementsByTagName("tbody")[0];
-    const responsePolygon = await fetch("https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonPloygon.json");
+    const responsePolygon = await fetch("https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json");
     const dataPolygon = await responsePolygon.json();
     const polygonTable = document.getElementById("polygonTable").getElementsByTagName("tbody")[0];
-    const responseLineString = await fetch("https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonLinestring.json");
+    const responseLineString = await fetch("https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json  ");
     const dataLineString = await responseLineString.json();
     const lineStringTable = document.getElementById("polylineTable").getElementsByTagName("tbody")[0];
 
@@ -28,17 +28,17 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // Membuat source dan layer untuk Point, Polygon, dan LineString
     const waypointSource = new ol.source.Vector({
-      url: "https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/goejsondrawPoint.json",
+      url: "https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json",
       format: new ol.format.GeoJSON(),
     });
 
     const lineStringSource = new ol.source.Vector({
-      url: "https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonPloygon.json",
+      url: "https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json",
       format: new ol.format.GeoJSON(),
     });
 
     const polylineSource = new ol.source.Vector({
-      url: "https://raw.githubusercontent.com/nizarabdulkholiq/gisfixcrot/main/geojsonLinestring.json",
+      url: "https://raw.githubusercontent.com/nizarabdulkholiq/petacrotzay/main/geojson.json  ",
       format: new ol.format.GeoJSON(),
     });
 
@@ -181,19 +181,18 @@ document.addEventListener("DOMContentLoaded", async () => {
 });
 // Menambahkan marker baru saat klik di peta
 map.on("click", function (event) {
-    const markerName = document.getElementById("markerName").value;
-    const coordinate = event.coordinate;
-  
-    if (markerName) {
-      const newFeature = new ol.Feature({
-        geometry: new ol.geom.Point(coordinate),
-      });
-  
-      newFeature.setProperties({
-        name: markerName,
-      });
-  
-      newMarkerSource.addFeature(newFeature);
-    }
-  });
-  
+  const markerName = document.getElementById("markerName").value;
+  const coordinate = event.coordinate;
+
+  if (markerName) {
+    const newFeature = new ol.Feature({
+      geometry: new ol.geom.Point(coordinate),
+    });
+
+    newFeature.setProperties({
+      name: markerName,
+    });
+
+    newMarkerSource.addFeature(newFeature);
+  }
+});
